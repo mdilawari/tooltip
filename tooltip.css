@@ -1,0 +1,24 @@
+#tooltip{
+	position:absolute;
+	z-index:100;
+}
+#namebox{
+	background: #282829;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	color: #ffffff;
+	font-size:11px;
+	padding:3px;
+	margin-bottom:0px;
+	border:0px;
+	min-width: 50px;
+	top:0px;
+	left:0px;
+}
+#tooltip img{
+	margin-top:0px;
+	/*position: absolute;
+	top:19px;
+	left:0px;*/
+	float:left;
+	clear:left;
+}
